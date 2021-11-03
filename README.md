@@ -1,4 +1,4 @@
-# Sparse-pinball-loss-twin-support-vector-clustering
+# Sparse-pinball-loss-twin-bounded-support-vector-clustering
 
 
 if you are using our code, please provide the proper citation.
